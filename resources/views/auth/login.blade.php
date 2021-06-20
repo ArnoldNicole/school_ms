@@ -4,7 +4,7 @@
 <div class="container">
    <form class="form-login w-50" action="{{ route('login') }}" method="POST">
              <h3 class="alert-success text-center" >Admin Login</h3>
-     <h2 class="form-login-heading">sign in to proceed to system</h2>
+     <h2 class="form-login-heading">Sign in to proceed to system</h2>
      <div class="login-wrap">
        <div class="input-group">
          <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>          
